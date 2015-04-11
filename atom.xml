@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Блог ITшника]]></title>
   <link href="http://fraidex.github.io/atom.xml" rel="self"/>
   <link href="http://fraidex.github.io/"/>
-  <updated>2015-04-08T01:24:07+03:00</updated>
+  <updated>2015-04-11T23:54:37+03:00</updated>
   <id>http://fraidex.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[FraiDex]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Первая запись]]></title>
+    <link href="http://fraidex.github.io/blog/2015/04/11/piervaia-zapis'/"/>
+    <updated>2015-04-11T01:46:10+03:00</updated>
+    <id>http://fraidex.github.io/blog/2015/04/11/piervaia-zapis&#8217;</id>
+    <content type="html"><![CDATA[<p>Всем привет! По традиции пишу первый пост.
+Вести свой технический блог я собирался уже давно, но всё как-то руки не доходили.
+Вот, всё-таки, решился. В изначальной задумке, блог будет посвящён Java, Android и другим темам, связанным с IT. Так-же буду уделять время различным СУБД, в частности тем, с которыми буду работать сам. Буду рассматривать различные алгоритмы и тестировать их. Так-же (возможно) буду сохранять различные полезные статьи и ресурсы, найденные на просторах всемирной паутины. Я думаю данный блог будет полезен. Ну, как говорил один мужик&hellip; &ldquo;Поехали!!!&rdquo;</p>
+]]></content>
+  </entry>
   
 </feed>
